@@ -1,0 +1,141 @@
+.image {
+    width: 1790px;
+    margin: 10px 0px 10px 20px;
+    animation: all 3s ease-out forwards;
+}
+
+.image1 {
+    width: 1790px;
+    margin: 10px 0px 10px 20px;
+    position: relative;
+    animation: all 3s ease-out forwards;
+}
+
+@keyframes all {
+    from {
+        width: 1850px;
+        height: 400px;
+
+    }
+
+    to {
+        width: 1790px;
+        height: 400px;
+    }
+}
+
+.first {
+    margin-top: 2px;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+.row {
+    margin: 50px 0px 0px 0px;
+}
+.h30{
+    background: -webkit-linear-gradient(left,rgb(103, 132, 158),#fff);
+
+}
+.pic {
+    border-radius: 5px;
+    width: 430px;
+    height: 250px;
+    margin-left: 8px;
+    position: relative;
+    animation: vansh 2s ease-in-out infinite;
+}
+
+@keyframes vansh {
+    from {
+        width: 400px;
+        height: 250px;
+    }
+
+    to {
+        width: 430px;
+        height: 250px;
+        box-shadow: 5px 3px rgb(255, 255, 255);
+    }
+}
+
+
+.pic2 {
+    border-radius: 5px;
+    width: 430px;
+    height: 250px;
+    margin-right: 8px;
+    position: relative;
+    animation: vansh 2s ease-out infinite alternate;
+}
+
+@keyframes vansh {
+    from {
+        width: 400px;
+        height: 250px;
+    }
+
+    to {
+        width: 430px;
+        height: 250px;
+        box-shadow: 5px 3px black;
+    }
+}
+
+h3 {
+    display: inline;
+
+    text-decoration: underline;
+    border-radius: 8px;
+    margin-left: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-bottom: 3px;
+    margin-top: 10px;
+    background-color: rgb(183, 202, 245);
+}
+
+h4 {
+    text-decoration: underline;
+    margin-bottom: 5px;
+}
+
+.info {
+    text-align: center;
+    font-size: large;
+}
+
+.info p {
+    margin-top: 10px;
+    font-size: 17px;
+    line-height: 2;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 3px;
+}
+
+.system {
+    width: 1500px;
+    height: 900px;
+    margin: 0px 0px 0px 120px;
+}
+
+.sample {
+    margin: 0px 0px 0px 120px;
+    align-items: center;
+    width: 1500px;
+    height: 500px;
+}
+
+.h31 {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.last {
+    width: 1500px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin: 0px 0px 0px 120px;
+
+}

@@ -1,0 +1,20 @@
+.result-1{
+    margin: 10px 0px 20px 30px;
+
+}
+.h30{
+    background: -webkit-linear-gradient(left,rgb(103, 132, 158),#fff);
+
+}
+.h31 {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.image-pre{
+    margin: 10px 0px 20px 80px;
+    border: 2px solid black;
+}
+.video{
+    margin: 10px 0px 10px 30px;
+}

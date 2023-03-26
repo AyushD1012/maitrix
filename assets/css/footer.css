@@ -1,0 +1,28 @@
+.contact{
+    background-color: black;
+    opacity: 0.8;
+    padding: 4px 5px 3px;
+}
+.container-fluid{
+    padding: 30px ;
+    color: white;
+  }
+  .fa-brands{
+    color: white;
+    margin: 2px;
+  }
+  .fa-solid{
+    color: rgb(255, 255, 255);
+    margin: 2px;
+  }
+  .contact-us{
+    color: white;
+    margin: 10px 0px 0px 10px;
+  }
+  .team{
+color: white;
+    margin: 10px 0px 0px 10px;
+}
+  .copyright{
+    float: right;
+  }
